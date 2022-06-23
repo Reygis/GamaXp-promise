@@ -1,2 +1,4 @@
 # GamaXp-promise
-exercicio envolvendo primise
+exercicio envolvendo promise
+
+<img src='/readme_file/Atividade.jpg'>
